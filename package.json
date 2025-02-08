@@ -1,0 +1,30 @@
+{
+  "name": "learnnodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ducpham4010/LearnNodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "ducph7"
+  ],
+  "author": "ducph7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ducpham4010/LearnNodejs/issues"
+  },
+  "homepage": "https://github.com/ducpham4010/LearnNodejs#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
